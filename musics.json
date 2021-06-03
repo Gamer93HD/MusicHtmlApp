@@ -1,15 +1,15 @@
 {
-    "AATW":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/All%20Along%20the%20Watchtower.mp3?raw=true","All Along the Watchtower"],
-    "CREEP":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Creep.mp3?raw=true","Creep"],
-    "ETFL":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Eternal%20Flame.mp3?raw=true","Eternal Flame"],
-    "FEVER":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Fever.mp3?raw=true","Fever"],
-    "HEASO":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Heart%20and%20Soul.mp3?raw=true","Heart and Soul"],
-    "HELL":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Hell.mp3?raw=true","Hell"],
-    "IDAD":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/I%20Dreamed%20a%20Dream.mp3?raw=true","I Dreamed a Dream"],
-    "LBAL":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Luck%20Be%20a%20Lady.mp3?raw=true","Luck Be a Lady"],
-    "MYWAY":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/My%20Way.mp3?raw=true","My Way"],
-    "SNNRMAN":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Sinnerman.mp3?raw=true","Sinnerman"],
-    "STWO":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Someone%20to%20Watch%20Over%20Me.mp3?raw=true","Someone to Watch Over Me"],
-    "WCKEDG":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Wicked%20Game.mp3?raw=true","Wicked Game"],
-    "WNDRWLL":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Wonderwall.mp3?raw=true","Wonderwall"]
+    "AATW":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/All%20Along%20the%20Watchtower.mp3?raw=true","name":"All Along the Watchtower"},
+    "CREEP":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Creep.mp3?raw=true","name":"Creep"},
+    "ETFL":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Eternal%20Flame.mp3?raw=true","name":"Eternal Flame"},
+    "FEVER":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Fever.mp3?raw=true","name":"Fever"},
+    "HEASO":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Heart%20and%20Soul.mp3?raw=true","name":"Heart and Soul"},
+    "HELL":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Hell.mp3?raw=true","name":"Hell"},
+    "IDAD":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/I%20Dreamed%20a%20Dream.mp3?raw=true","name":"I Dreamed a Dream"},
+    "LBAL":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Luck%20Be%20a%20Lady.mp3?raw=true","name":"Luck Be a Lady"},
+    "MYWAY":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/My%20Way.mp3?raw=true","name":"My Way"},
+    "SNNRMAN":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Sinnerman.mp3?raw=true","name":"Sinnerman"},
+    "STWO":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Someone%20to%20Watch%20Over%20Me.mp3?raw=true","name":"Someone to Watch Over Me"},
+    "WCKEDG":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Wicked%20Game.mp3?raw=true","name":"Wicked Game"},
+    "WNDRWLL":{"url":"https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Wonderwall.mp3?raw=true","name":"Wonderwall"}
 }
