@@ -1,15 +1,15 @@
 {
-    "AATW":["All Along the Watchtower.mp3","All Along the Watchtower"],
-    "CREEP":["Creep.mp3","Creep"],
-    "ETFL":["Eternal Flame.mp3","Eternal Flame"],
-    "FEVER":["Fever.mp3","Fever"],
-    "HEASO":["Heart and Soul.mp3","Heart and Soul"],
-    "HELL":["Hell.mp3","Hell"],
-    "IDAD":["I Dreamed a Dream.mp3"],
-    "LBAL":["Luck Be a Lady.mp3","Luck Be a Lady"],
-    "MYWAY":["My Way.mp3","My Way"],
-    "SNNRMAN":["Sinnerman.mp3","Sinnerman"],
-    "STWO":["Someone to Watch Over Me.mp3","Someone to Watch Over Me"],
-    "WCKEDG":["Wicked Game.mp3","Wicked Game"],
-    "WNDRWLL":["Wonderwall.mp3","Wonderwall"]
+    "AATW":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/All%20Along%20the%20Watchtower.mp3?raw=true","All Along the Watchtower"],
+    "CREEP":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Creep.mp3?raw=true","Creep"],
+    "ETFL":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Eternal%20Flame.mp3?raw=true","Eternal Flame"],
+    "FEVER":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Fever.mp3?raw=true","Fever"],
+    "HEASO":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Heart%20and%20Soul.mp3?raw=true","Heart and Soul"],
+    "HELL":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Hell.mp3?raw=true","Hell"],
+    "IDAD":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/I%20Dreamed%20a%20Dream.mp3?raw=true","I Dreamed a Dream"],
+    "LBAL":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Luck%20Be%20a%20Lady.mp3?raw=true","Luck Be a Lady"],
+    "MYWAY":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/My%20Way.mp3?raw=true","My Way"],
+    "SNNRMAN":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Sinnerman.mp3?raw=true","Sinnerman"],
+    "STWO":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Someone%20to%20Watch%20Over%20Me.mp3?raw=true","Someone to Watch Over Me"],
+    "WCKEDG":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Wicked%20Game.mp3?raw=true","Wicked Game"],
+    "WNDRWLL":["https://github.com/Gamer93HD/MusicHtmlApp/blob/MusicsTOMELLIS/Wonderwall.mp3?raw=true","Wonderwall"]
 }
